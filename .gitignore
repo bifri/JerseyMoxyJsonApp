@@ -1,0 +1,4 @@
+.settings
+*.properties
+*.script
+target/
